@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "abcserver-TUxW.aternos.me",
+    "ip": "abcserver-TUxW.aternos.me:35998",
     "port": 35998,
     "version": "",
     "try-creative": false
